@@ -2,8 +2,8 @@
 
 Я вирішив створити українську локалізацію для гри Changed. У цьому репозиторії ви знайдете файли різних версій перекладу, скриншоти та інструкцію зі встановлення.
 
-Наразі найактуальніша версія - **0.1.34**. 
-Завантажити її можна [тут](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.1.34/Game.rgss2a).
+Наразі найактуальніша версія - **0.2.85**. 
+Завантажити її можна [тут](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.2.85/Game.rgss2a).
 
 Файл [шрифту](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Type/WenQuanYi%20Micro%20Hei.ttf).                  
 
@@ -33,13 +33,14 @@
 
 | Версія | Завантажити |
 | :---: | :---: |
+| 0.2.85 | [Завантажити (Game.rgss2a)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.2.85/Game.rgss2a) |
 | 0.1.34 | [Завантажити (Game.rgss2a)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.1.34/Game.rgss2a) |
 
 ---
 
 
 Якщо ви помітили помилку перекладу після версії 1.Х.Х:
-Напишіть тут [Issues](https://github.com/elik7777/GameChangedUkrainianLanguage/issues)
+Напишіть [тут](https://github.com/elik7777/GameChangedUkrainianLanguage/issues)
 
 
 <details>
@@ -49,4 +50,8 @@
   <img src="Screenshot/game/Screenshot_2.png" width="100%">
   <img src="Screenshot/game/Screenshot_3.png" width="100%">
   <img src="Screenshot/game/Screenshot_4.png" width="100%">
+  <img src="Screenshot/game/Screenshot_5.png" width="100%">
+  <img src="Screenshot/game/Screenshot_6.png" width="100%">
+  <img src="Screenshot/game/Screenshot_7.png" width="100%">
+  <img src="Screenshot/game/Screenshot_8.png" width="100%">
 </details>
