@@ -40,7 +40,7 @@
 
 
 Якщо ви помітили помилку перекладу після версії 1.Х.Х:
-Напишіть тут [Issues](https://github.com/elik7777/GameChangedUkrainianLanguage/issues)
+Напишіть [тут](https://github.com/elik7777/GameChangedUkrainianLanguage/issues)
 
 
 <details>
@@ -50,4 +50,8 @@
   <img src="Screenshot/game/Screenshot_2.png" width="100%">
   <img src="Screenshot/game/Screenshot_3.png" width="100%">
   <img src="Screenshot/game/Screenshot_4.png" width="100%">
+  <img src="Screenshot/game/Screenshot_5.png" width="100%">
+  <img src="Screenshot/game/Screenshot_6.png" width="100%">
+  <img src="Screenshot/game/Screenshot_7.png" width="100%">
+  <img src="Screenshot/game/Screenshot_8.png" width="100%">
 </details>
