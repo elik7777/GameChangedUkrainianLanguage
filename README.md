@@ -2,8 +2,8 @@
 
 Я вирішив створити українську локалізацію для гри Changed. У цьому репозиторії ви знайдете файли різних версій перекладу, скриншоти та інструкцію зі встановлення.
 
-Наразі найактуальніша версія - **0.1.34**. 
-Завантажити її можна [тут](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.1.34/Game.rgss2a).
+Наразі найактуальніша версія - **0.2.85**. 
+Завантажити її можна [тут](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.2.85/Game.rgss2a).
 
 Файл [шрифту](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Type/WenQuanYi%20Micro%20Hei.ttf).                  
 
@@ -33,6 +33,7 @@
 
 | Версія | Завантажити |
 | :---: | :---: |
+| 0.2.85 | [Завантажити (Game.rgss2a)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.2.85/Game.rgss2a) |
 | 0.1.34 | [Завантажити (Game.rgss2a)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.1.34/Game.rgss2a) |
 
 ---
