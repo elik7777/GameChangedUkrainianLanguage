@@ -37,6 +37,13 @@
 
 ---
 
+
+Якщо ви помітили помилку перекладу:
+Напишіть тут [Issues](https://github.com/elik7777/GameChangedUkrainianLanguage/issues)
+
+
+Дякую за допомогу в покращенні локалізації!
+
 <details>
   <summary>Переглянути скриншоти</summary>
   <br>
