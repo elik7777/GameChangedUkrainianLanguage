@@ -16,15 +16,14 @@
 * Перейдіть до [Таблиці версій](#таблиця-версій) та завантажте актуальний файл `Game.rgss2a`.
 
 ### 2. Замініть файли гри
-* Відкрийте папку, куди встановлено гру Changed. 
+* Відкрийте папку гри Changed. 
 * Перенесіть завантажений файл `Game.rgss2a` у цю папку та підтвердьте заміну файлу.
 ![](Screenshot/git/Screenshot_1.png)
 
-* Перейдіть у папку `Fonts`, видаліть з неї всі наявні файли та вставте туди завантажений файл [шрифту](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Type/WenQuanYi%20Micro%20Hei.ttf).
+* Перейдіть у папку `Fonts` видаліть з неї всі файли та вставте туди файл [шрифту](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Type/WenQuanYi%20Micro%20Hei.ttf).
 ![](Screenshot/git/Screenshot_2.png)
 
 ### 3. Запустіть гру
-* Запустіть гру та перевірте роботу перекладу.
   
 ![](Screenshot/git/Screenshot_3.png)
 
