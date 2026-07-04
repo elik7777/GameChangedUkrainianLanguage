@@ -4,13 +4,13 @@
 
 Наразі найактуальніша версія — **0.1.34**. 
 Завантажити її можна [тут](Version%20language/0.1.34/Game.rgss2a?raw=true).
-
+Файл [шрифту](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Type/WenQuanYi%20Micro%20Hei.ttf)
 ---
 
 ## Встановлення локалізації
 
 ### 1. Завантажте необхідні файли
-* Завантажте файл [шрифту](Type/WenQuanYi%20Micro%20Hei.ttf?raw=true).
+* Завантажте файл [шрифту](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Type/WenQuanYi%20Micro%20Hei.ttf)
 * Перейдіть до [Таблиці версій](#таблиця-версій) та завантажте актуальний файл `Game.rgss2a`.
 
 ### 2. Замініть файли гри
@@ -18,7 +18,7 @@
 * Перенесіть завантажений файл `Game.rgss2a` у цю папку та підтвердьте заміну файлу.
 ![](Screenshot/git/Screenshot_1.png)
 
-* Перейдіть у папку `Fonts`, видаліть з неї всі наявні файли та вставте туди завантажений файл шрифту.
+* Перейдіть у папку `Fonts`, видаліть з неї всі наявні файли та вставте туди завантажений файл [шрифту](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Type/WenQuanYi%20Micro%20Hei.ttf).
 ![](Screenshot/git/Screenshot_2.png)
 
 ### 3. Запустіть гру
@@ -31,7 +31,7 @@
 
 | Версія | Завантажити |
 | :---: | :---: |
-| 0.1.34 | [Завантажити (Game.rgss2a)](Version%20language/0.1.34/Game.rgss2a?raw=true) |
+| 0.1.34 | [Завантажити (Game.rgss2a)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.1.34/Game.rgss2a) |
 
 ---
 
