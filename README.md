@@ -38,7 +38,7 @@
 ---
 
 
-Якщо ви помітили помилку перекладу:
+Якщо ви помітили помилку перекладу після версії 1.0:
 Напишіть тут [Issues](https://github.com/elik7777/GameChangedUkrainianLanguage/issues)
 
 
