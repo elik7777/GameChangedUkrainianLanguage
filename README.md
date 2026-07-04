@@ -5,7 +5,7 @@
 Наразі найактуальніша версія — **0.1.34**. 
 Завантажити її можна [тут](Version%20language/0.1.34/Game.rgss2a?raw=true).
 
-Файл [шрифту](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Type/WenQuanYi%20Micro%20Hei.ttf).
+Файл [шрифту](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Type/WenQuanYi%20Micro%20Hei.ttf).                                             
 ---
 
 ## Встановлення локалізації
