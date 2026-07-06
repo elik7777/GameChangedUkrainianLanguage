@@ -34,8 +34,8 @@
 | Версія | Завантажити |
 | :---: | :---: |
 | 0.3.137 | [Завантажити (актуальна)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.3.137/Game.rgss2a) |
-| 0.2.85 | [Завантажити            ](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.2.85/Game.rgss2a) |
-| 0.1.34 | [Завантажити            ](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.1.34/Game.rgss2a) |
+| 0.2.85 | [Завантажити            ](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.2.85/Game.rgss2a) |
+| 0.1.34 | [Завантажити            ](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.1.34/Game.rgss2a) |
 
 ---
 
