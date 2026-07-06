@@ -2,10 +2,11 @@
 
 Українська локалізація для гри Changed. У цьому репозиторії ви знайдете файли різних версій перекладу, скриншоти та інструкцію зі встановлення.
 
-Наразі найактуальніша версія - **0.4.54**. 
+### Наразі найактуальніша версія - **0.4.54**. 
+
 Завантажити її можна [тут](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.4.54/Game.rgss2a).
 
-Файл [шрифту](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Type/WenQuanYi%20Micro%20Hei.ttf).                  
+Файл шрифту [тут](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Type/WenQuanYi%20Micro%20Hei.ttf).                  
 
 ---
 
@@ -60,4 +61,8 @@
   <img src="Screenshot/game/Screenshot_10.png" width="100%">
   <img src="Screenshot/game/Screenshot_11.png" width="100%">
   <img src="Screenshot/game/Screenshot_12.png" width="100%">
+  <img src="Screenshot/game/Screenshot_13.png" width="100%">
+  <img src="Screenshot/game/Screenshot_14.png" width="100%">
+  <img src="Screenshot/game/Screenshot_15.png" width="100%">
+  <img src="Screenshot/game/Screenshot_16.png" width="100%">
 </details>
