@@ -14,7 +14,7 @@
 
 ### 1. Завантажте необхідні файли
 * Завантажте файл [шрифту](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Type/WenQuanYi%20Micro%20Hei.ttf)
-* Перейдіть до [Таблиці версій](#таблиця-версій) та завантажте актуальний файл `Game.rgss2a`.
+* Перейдіть до [Таблиці версій](#таблиця-версій) та завантажте актуальний файл.
 
 ### 2. Замініть файли гри
 * Відкрийте папку гри Changed. 
@@ -37,7 +37,7 @@
 | 0.4.54 | [Завантажити (актуальна)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.4.54/Game.rgss2a) |
 | 0.3.137 | [Завантажити (застаріла)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.3.137/Game.rgss2a) |
 | 0.2.85 | [Завантажити (застаріла)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.2.85/Game.rgss2a) |
-| 0.1.145 | [Завантажити (застаріла)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.1.145/Game.rgss2a) |
+| 0.1.78 | [Завантажити (застаріла)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.1.78/Game.rgss2a) |
 
 ---
 
