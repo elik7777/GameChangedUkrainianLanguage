@@ -71,5 +71,8 @@
   <img src="Screenshot/game/Screenshot_18.png" width="100%">
   <img src="Screenshot/game/Screenshot_19.png" width="100%">
   <img src="Screenshot/game/Screenshot_20.png" width="100%">
-
+  <img src="Screenshot/game/Screenshot_21.png" width="100%">
+  <img src="Screenshot/game/Screenshot_22.png" width="100%">
+  <img src="Screenshot/game/Screenshot_23.png" width="100%">
+  <img src="Screenshot/game/Screenshot_24.png" width="100%">
 </details>
