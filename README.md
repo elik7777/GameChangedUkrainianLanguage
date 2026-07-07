@@ -49,7 +49,7 @@
 
 
 <details>
-  <summary>Переглянути скриншоти</summary>
+  <summary>Переглянутискриншоти</summary>
   <br>
   <img src="Screenshot/game/Screenshot_1.png" width="100%">
   <img src="Screenshot/game/Screenshot_2.png" width="100%">
