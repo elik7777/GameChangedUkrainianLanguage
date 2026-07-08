@@ -2,9 +2,9 @@
 
 Українська локалізація для гри Changed. У цьому репозиторії ви знайдете файли різних версій перекладу, скриншоти та інструкцію зі встановлення.
 
-### Наразі найактуальніша версія - **0.6.358**. 
+### Наразі найактуальніша версія - **0.7.271**. 
 
-Завантажити її можна [тут](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.6.358/Game.rgss2a).
+Завантажити її можна [тут](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.7.271/Game.rgss2a).
 
 Файл шрифту [тут](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Type/WenQuanYi%20Micro%20Hei.ttf).                  
 
@@ -34,7 +34,8 @@
 
 | Версія | Завантажити |
 | :---: | :---: |
-| 0.6.358 | [Завантажити (актуальна)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.6.358/Game.rgss2a) |
+| 0.7.271 | [Завантажити (актуальна)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.7.271/Game.rgss2a) |
+| 0.6.358 | [Завантажити (застаріла)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.6.358/Game.rgss2a) |
 | 0.5.41 | [Завантажити (застаріла)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.5.41/Game.rgss2a) |
 | 0.4.54 | [Завантажити (застаріла)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.4.54/Game.rgss2a) |
 | 0.3.137 | [Завантажити (застаріла)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.3.137/Game.rgss2a) |
@@ -75,4 +76,8 @@
   <img src="Screenshot/game/Screenshot_22.png" width="100%">
   <img src="Screenshot/game/Screenshot_23.png" width="100%">
   <img src="Screenshot/game/Screenshot_24.png" width="100%">
+  <img src="Screenshot/game/Screenshot_25.png" width="100%">
+  <img src="Screenshot/game/Screenshot_26.png" width="100%">
+  <img src="Screenshot/game/Screenshot_27.png" width="100%">
+  <img src="Screenshot/game/Screenshot_28.png" width="100%">
 </details>
