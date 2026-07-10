@@ -2,9 +2,9 @@
 
 Українська локалізація для гри Changed. У цьому репозиторії ви знайдете файли різних версій перекладу, скриншоти та інструкцію зі встановлення.
 
-### Наразі найактуальніша версія - **0.7.271**. 
+### Наразі найактуальніша версія - **0.8.36**. 
 
-Завантажити її можна [тут](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.7.271/Game.rgss2a).
+Завантажити її можна [тут](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.8.36/Game.rgss2a).
 
 Файл шрифту [тут](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Type/WenQuanYi%20Micro%20Hei.ttf).                  
 
@@ -34,7 +34,8 @@
 
 | Версія | Завантажити |
 | :---: | :---: |
-| 0.7.271 | [Завантажити (актуальна)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.7.271/Game.rgss2a) |
+| 0.8.36 | [Завантажити (актуальна)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.8.36/Game.rgss2a) |
+| 0.7.271 | [Завантажити (застаріла)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.7.271/Game.rgss2a) |
 | 0.6.358 | [Завантажити (застаріла)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.6.358/Game.rgss2a) |
 | 0.5.41 | [Завантажити (застаріла)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.5.41/Game.rgss2a) |
 | 0.4.54 | [Завантажити (застаріла)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.4.54/Game.rgss2a) |
@@ -45,8 +46,15 @@
 ---
 
 
-Якщо ви помітили помилку перекладу після версії 1.Х.Х:
-Напишіть [тут](https://github.com/elik7777/GameChangedUkrainianLanguage/issues)
+~~Якщо ви помітили помилку перекладу після версії 1.Х.Х:~~
+~~Напишіть тут~~
+
+
+Я зробив ВЕЛИКУ помилку під час перекладу
+
+У подробиці вдаватись не буду, але тепер напишіть [тут](https://github.com/elik7777/GameChangedUkrainianLanguage/issues) вже після версії 2.Х.Х
+
+Я все одно дороблю версію 1.Х.Х
 
 
 <details>
@@ -80,4 +88,8 @@
   <img src="Screenshot/game/Screenshot_26.png" width="100%">
   <img src="Screenshot/game/Screenshot_27.png" width="100%">
   <img src="Screenshot/game/Screenshot_28.png" width="100%">
+  <img src="Screenshot/game/Screenshot_29.png" width="100%">
+  <img src="Screenshot/game/Screenshot_30.png" width="100%">
+  <img src="Screenshot/game/Screenshot_31.png" width="100%">
+  <img src="Screenshot/game/Screenshot_32.png" width="100%">
 </details>
