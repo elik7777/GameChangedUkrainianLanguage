@@ -2,9 +2,9 @@
 
 Українська локалізація для гри Changed. У цьому репозиторії ви знайдете файли різних версій перекладу, скриншоти та інструкцію зі встановлення.
 
-### Наразі найактуальніша версія - **0.8.36**. 
+### Наразі найактуальніша версія - **0.9.16**. 
 
-Завантажити її можна [тут](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.8.36/Game.rgss2a).
+Завантажити її можна [тут](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.9.16/Game.rgss2a).
 
 Файл шрифту [тут](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Type/WenQuanYi%20Micro%20Hei.ttf).                  
 
@@ -32,16 +32,17 @@
 
 ## Таблиця версій
 
-| Версія | Завантажити |
-| :---: | :---: |
-| 0.8.36 | [Завантажити (актуальна)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.8.36/Game.rgss2a) |
-| 0.7.271 | [Завантажити (застаріла)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.7.271/Game.rgss2a) |
-| 0.6.358 | [Завантажити (застаріла)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.6.358/Game.rgss2a) |
-| 0.5.41 | [Завантажити (застаріла)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.5.41/Game.rgss2a) |
-| 0.4.54 | [Завантажити (застаріла)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.4.54/Game.rgss2a) |
-| 0.3.137 | [Завантажити (застаріла)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.3.137/Game.rgss2a) |
-| 0.2.85 | [Завантажити (застаріла)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.2.85/Game.rgss2a) |
-| 0.1.78 | [Завантажити (застаріла)](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.1.78/Game.rgss2a) |
+| Версія | Тип версії | Актуальна |
+| :---: | :---: | :---: |
+| [0.9.16](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.9.16/Game.rgss2a)  | Мод | + |
+| [0.8.36](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.8.36/Game.rgss2a)  | Мод | - |
+| [0.7.271](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.7.271/Game.rgss2a)  | Мод | - |
+| [0.6.358](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.6.358/Game.rgss2a)  | Мод | - |
+| [0.5.41](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.5.41/Game.rgss2a)  | Мод | - |
+| [0.4.54](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.4.54/Game.rgss2a)  | Мод | - |
+| [0.3.137](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.3.137/Game.rgss2a)  | Мод | - |
+| [0.2.85](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.2.85/Game.rgss2a)  | Мод | - |
+| [0.1.78](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.1.78/Game.rgss2a)  | Мод | - |
 
 ---
 
@@ -92,4 +93,8 @@
   <img src="Screenshot/game/Screenshot_30.png" width="100%">
   <img src="Screenshot/game/Screenshot_31.png" width="100%">
   <img src="Screenshot/game/Screenshot_32.png" width="100%">
+  <img src="Screenshot/game/Screenshot_33.png" width="100%">
+  <img src="Screenshot/game/Screenshot_34.png" width="100%">
+  <img src="Screenshot/game/Screenshot_35.png" width="100%">
+  <img src="Screenshot/game/Screenshot_36.png" width="100%">
 </details>
