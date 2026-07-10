@@ -34,15 +34,15 @@
 
 | Версія | Тип версії | Актуальна |
 | :---: | :---: | :---: |
-| [0.9.16](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.9.16/Game.rgss2a)  | Мод | + |
-| [0.8.36](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.8.36/Game.rgss2a)  | Мод | - |
-| [0.7.271](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.7.271/Game.rgss2a)  | Мод | - |
-| [0.6.358](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.6.358/Game.rgss2a)  | Мод | - |
-| [0.5.41](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.5.41/Game.rgss2a)  | Мод | - |
-| [0.4.54](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.4.54/Game.rgss2a)  | Мод | - |
-| [0.3.137](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.3.137/Game.rgss2a)  | Мод | - |
-| [0.2.85](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.2.85/Game.rgss2a)  | Мод | - |
-| [0.1.78](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.1.78/Game.rgss2a)  | Мод | - |
+| [0.9.16](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.9.16/Game.rgss2a)  | Мод | так |
+| [0.8.36](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.8.36/Game.rgss2a)  | Мод | ні |
+| [0.7.271](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.7.271/Game.rgss2a)  | Мод | ні |
+| [0.6.358](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.6.358/Game.rgss2a)  | Мод | ні |
+| [0.5.41](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.5.41/Game.rgss2a)  | Мод | ні |
+| [0.4.54](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.4.54/Game.rgss2a)  | Мод | ні |
+| [0.3.137](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.3.137/Game.rgss2a)  | Мод | ні |
+| [0.2.85](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.2.85/Game.rgss2a)  | Мод | ні |
+| [0.1.78](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/0.1.78/Game.rgss2a)  | Мод | ні |
 
 ---
 
