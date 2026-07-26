@@ -62,7 +62,7 @@
 Я все одно дороблю версію 1.Х.Х
 
 
-<details>
+<details open>
   <summary>Переглянути скриншоти</summary>
   <span id="screenshots"></span>
   <br>
