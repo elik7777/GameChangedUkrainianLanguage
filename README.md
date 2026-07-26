@@ -64,6 +64,7 @@
 
 <details>
   <summary>Переглянути скриншоти</summary>
+  <span id="screenshots"></span>
   <br>
   <img src="Screenshot/game/Screenshot_1.png" width="100%">
   <img src="Screenshot/game/Screenshot_2.png" width="100%">
