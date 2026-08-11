@@ -6,7 +6,14 @@
 
 Завантажити її можна [тут](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/1.X.X/1.0.73/Game.rgss2a).
 
-Файл шрифту [тут](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Type/WenQuanYi%20Micro%20Hei.ttf).                  
+Файл шрифту [тут](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Type/WenQuanYi%20Micro%20Hei.ttf).             
+
+---
+### Також є бета-версія - **1.2.121**
+
+Ось [вона](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/2.X.X/1.2.121/Game.rgss2a). 
+
+[Чому бета а не версія 1.0.73?](#попередження)
 
 ---
 
@@ -38,7 +45,8 @@
 
 | Версія | Тип версії | Актуальна |
 | :---: | :---: | :---: |
-| [1.1.81](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/2.X.X/1.1.81/Game.rgss2a)  | Мод | + |
+| [1.2.121](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/2.X.X/1.2.121/Game.rgss2a)  | Мод | + |
+| [1.1.81](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/2.X.X/1.1.81/Game.rgss2a)  | Мод | - |
 | [1.0.73](Instructions/1.0.73_full.md)  | Повна | + |
 | [1.0.73](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/1.X.X/1.0.73/Game.rgss2a)  | Мод | + |
 | [0.9.16](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/1.X.X/0.9.16/Game.rgss2a)  | Мод | - |
@@ -51,22 +59,21 @@
 | [0.2.85](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/1.X.X/0.2.85/Game.rgss2a)  | Мод | - |
 | [0.1.78](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/1.X.X/0.1.78/Game.rgss2a)  | Мод | - |
 
----
 
 
-~~Якщо ви помітили помилку перекладу після версії 1.Х.Х:~~
-~~Напишіть тут~~
+## Попередження
 
-
-**Я зробив ВЕЛИКУ помилку під час перекладу**
+**Я зробив ВЕЛИКУ помилку під час перекладу 1.X.X**
 
 Помилка в тому що я перекладав з російської
 
 Після версії **1.0.73** переклад буде з англійської
 
-Напишіть [тут](https://github.com/elik7777/GameChangedUkrainianLanguage/issues) якщо помітили помилки після версії 2.Х.Х
+---
 
+### Напишіть [тут](https://github.com/elik7777/GameChangedUkrainianLanguage/issues) якщо помітили помилки після версії 2.Х.Х
 
+---
 
 <details open>
   <summary>Переглянути скриншоти</summary>
