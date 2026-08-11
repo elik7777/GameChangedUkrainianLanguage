@@ -13,7 +13,7 @@
 
 Ось [вона](https://github.com/elik7777/GameChangedUkrainianLanguage/raw/main/Version%20language/2.X.X/1.2.121/Game.rgss2a). 
 
-[Чому бета а не версія 1.X.X?](#попередження)
+[Чому бета а не версія 1.0.73?](#попередження)
 
 ---
 
